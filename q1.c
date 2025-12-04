@@ -25,6 +25,7 @@ double calculateRepayment(double loan, double interestRate, int year, int totalY
 }
 
 int main() {
+    printf(" CODE BY HUZAIFA");
     double loan = 100000;       // Initial loan
     double interestRate = 5;    // Annual interest rate in percent
     int years = 3;              // Total number of years
