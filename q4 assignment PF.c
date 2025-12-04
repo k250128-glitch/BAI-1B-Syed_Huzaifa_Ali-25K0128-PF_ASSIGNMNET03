@@ -33,7 +33,7 @@ void printShelf(Book *shelf, int bookCount) {
 // MADE BY HUZIAFA
 int main() {
     int shelfSize, operations, idx, k;
-    prinf("STAAAART GETTTING READDDY CCOODE BY HUZAIFA IS HERE\n\n");
+    printf("STAAAART GETTTING READDDY CCOODE BY HUZAIFA IS HERE\n\n");
     printf("Enter shelf capacity: ");
     scanf("%d", &shelfSize);
 
@@ -138,4 +138,5 @@ int main() {
 
     return 0;
 }
+
 
