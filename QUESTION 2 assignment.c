@@ -6,10 +6,12 @@ void calculateFuel(int fuel, int consumption, int recharge, int solarBonus,
     // Base cases
     if (fuel <= 0) {
         printf("Fuel depleted! Mission aborted at Planet %d.\n", planet);
+      printf("HUZAIFA THE PILOT HAS LOST FUEL\n");
         return;
     }
     if (planet > totalPlanets) {
         printf("Mission successful! Spacecraft completed the journey.\n");
+         printf("HUZIAFA THE PILOT HAS COMPLETED HIS JOURNEY");
         return;
     }
 
@@ -58,3 +60,4 @@ int main()
 printf("THE PROGRAM WAS MADE BY SYED HUZAIFA ALI\n 25K-0128");
     return 0;
 }
+
