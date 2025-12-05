@@ -134,9 +134,8 @@ int main() {
 
         printShelf(shelf, bookCount);
     }
-    printf("CIDE BY SYED HUZAIFA ALI")
+    printf("CIDE BY SYED HUZAIFA ALI");
 
     return 0;
 }
-
 
